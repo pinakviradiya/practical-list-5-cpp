@@ -6,6 +6,8 @@ using namespace std;
 class Animal {
 public:
     void eat() {
+	 cout<< "Viradiya pinak";
+    	 cout<< "220130318014";   
         cout << "Eating..." << endl;
     }
 };
