@@ -12,6 +12,8 @@ public:
 class Derived : public Base {
 public:
     void display() override {
+        cout<< "Viradiya pinak";
+         cout<< "220130318014";
         cout << "Display from Derived class" << endl;
     }
 };
