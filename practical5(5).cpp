@@ -13,6 +13,8 @@ public:
     }
 
     void display() {
+        cout<< "Viradiya pinak";
+    	 cout<< "220130318014";
         cout << "Value of num: " << this->num << endl;
     }
 
