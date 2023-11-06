@@ -5,6 +5,8 @@ using namespace std;
 class Base {
 public:
     void display() {
+        cout<< "Viradiya pinak";
+        cout<< "220130318014";
         cout << "Display from Base class" << endl;
     }
 };
