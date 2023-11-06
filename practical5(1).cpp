@@ -7,6 +7,8 @@ using namespace std;
 class Shape {
 public:
     void display() {
+	  cout<< "Viradiya pinak";
+          cout<< "220130318014";  
         cout << "This is a shape." << endl;
     }
 };
